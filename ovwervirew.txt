@@ -1,0 +1,7 @@
+it is used to run server side code  
+can generate the dynamic Content for the page  Have file sysytem access and resd, delect options also 
+ Can also collect Data Mostaly used foe comman tasks 
+
+ MODULES
+  they are the Javascript Code weritten by some one  else
+   To include the Module used requied() keyword 
